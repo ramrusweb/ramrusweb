@@ -9,5 +9,5 @@
 ### ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-151515?logo=javascript)
 ### ![PHP](https://img.shields.io/badge/-PHP-151515?logo=php)
 ### ![SQL](https://img.shields.io/badge/-SQL-151515?logo=sql)
-### ![T-SQL](https://img.shields.io/badge/-T-SQL-151515?logo=tsql)
+### ![TSQL](https://img.shields.io/badge/-T-SQL-151515?logo=tsql)
 ### ![CSHARP](https://img.shields.io/badge/-C%23-151515?logo=C#)
