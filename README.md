@@ -3,6 +3,6 @@
 ### Check my Instagram: [ramfreel](https://instagram.com/ramfreel/)
 > Measuring programming progress by lines of code is like measuring aircraft building progress by weight. <br/>
 > ***Bill Gates***<br/>
-## Languages and Technologies
+### Languages and Technologies
 ### ![HTML](https://img.shields.io/badge/-HTML-151515?logo=html5)
 ### ![CSS](https://img.shields.io/badge/-CSS-151515?logo=css3)
