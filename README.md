@@ -7,4 +7,4 @@
 ### ![HTML](https://img.shields.io/badge/-HTML-151515?logo=html5)
 ### ![CSS](https://img.shields.io/badge/-CSS-151515?logo=css3)
 ### ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-151515?logo=javascript)
-### ![C#](https://img.shields.io/badge/-C#-151515?logo=csharp)
+### ![CSHARP](https://img.shields.io/badge/-C#-151515?logo=csharp)
