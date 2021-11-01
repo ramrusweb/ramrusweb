@@ -16,3 +16,6 @@
 ### ![.NET](https://img.shields.io/badge/-.NET-151515?logo=.net)
 
 ####  • You can see my projects under this block in pinned repositories, but there are more of them - [HERE](https://github.com/ramrusgit?tab=repositories)
+
+## Contacts:
+### ![LinkedIn]()
