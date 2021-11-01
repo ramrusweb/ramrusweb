@@ -1,5 +1,5 @@
-Hi there, I'm Rustam 👋
-## Position: *Frontend Developer*
+## Hi there, I'm Rustam 👋
+### Position: *Frontend Developer*
 ### Check my Instagram: [=>](https://instagram.com/itgodoit/)
 ## Tech:
 ### Primary:
