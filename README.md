@@ -9,4 +9,4 @@
 ####  • You can see my projects under this block in pinned repositories, but there are more of them - [HERE](https://github.com/ramrusgit?tab=repositories)
 
 ## Contacts:
-### ![LinkedIn](https://img.shields.io/badge/-LinkedIn-royalblue?logo=linkedin)
+### ![LinkedIn](https://img.shields.io/badge/-LinkedIn-royalblue?logo=linkedin) ![Telegram](https://img.shields.io/badge/-Telegram-24151201?logo=telegram)
