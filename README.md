@@ -1,4 +1,4 @@
-## Hi there, I'm Rustam 👋
+###### Hi there, I'm Rustam 👋
 ### Position: *Frontend Developer*
 ### Check my Instagram: [=>](https://instagram.com/itgodoit/)
 ## Tech:
@@ -15,3 +15,5 @@
 ### ![PHP](https://img.shields.io/badge/-PHP-151515?logo=php)
 ### ![C#](https://img.shields.io/badge/-C%23-151515?logo=C#)
 ### ![.NET](https://img.shields.io/badge/-PHP-151515?logo=php)
+
+You can see my projects under this block in pinned repositories, but there are more of them - HERE
