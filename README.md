@@ -11,3 +11,5 @@
 
 ## Contacts:
 ### ![](https://img.shields.io/badge/-LinkedIn-royalblue?style=for-the-badge&logo=linkedin) ![Telegram](https://img.shields.io/badge/-Telegram-24151201?style=for-the-badge&logo=telegram) ![Gmail](https://img.shields.io/badge/-rustamramazanovworkmail@gmail.com-202020?style=for-the-badge)
+
+<a href="vk.com">vk</a>
