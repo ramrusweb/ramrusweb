@@ -10,4 +10,4 @@
 
 ## Contacts:
 ### ![LinkedIn](https://img.shields.io/badge/-LinkedIn-royalblue?logo=linkedin) ![Telegram](https://img.shields.io/badge/-Telegram-24151201?logo=telegram)
-![Gmail](https://img.shields.io/badge/-Gmail-24151201?logo=gmail
+![Gmail](https://img.shields.io/badge/-Gmail-24151201?logo=mail
