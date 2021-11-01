@@ -10,4 +10,4 @@
 
 ## Contacts:
 ### ![LinkedIn](https://img.shields.io/badge/-LinkedIn-royalblue?logo=linkedin) ![Telegram](https://img.shields.io/badge/-Telegram-24151201?logo=telegram)
-[Gmail](rustamramazanovworkmail@gmail.com)
+![rustamramazanovworkmail@gmail.com](https://img.shields.io/badge/-Telegram-24151201?logo=telegram)
