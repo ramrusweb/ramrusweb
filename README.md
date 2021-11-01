@@ -14,4 +14,4 @@
 
 ### [![Phone number](https://img.shields.io/badge/-Phone number:-151515?style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrusgit?show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrusgit&show_icons=true)
