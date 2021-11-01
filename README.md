@@ -7,6 +7,10 @@
 ### ![JS](https://img.shields.io/badge/-JAVASCRIPT-151515?logo=javascript)
 ### ![REACTJS](https://img.shields.io/badge/-REACT-151515?logo=react)
 ### ![GIT](https://)
+### Secondary:
+### ![BOOTSTRAP](https://img.shields.io/badge/-PHP-151515?logo=php)
+### ![FIGMA](https://img.shields.io/badge/-PHP-151515?logo=php)
+### ![BEM](https://img.shields.io/badge/-PHP-151515?logo=php)
 ### ![PHP](https://img.shields.io/badge/-PHP-151515?logo=php)
-### ![SQL](https://img.shields.io/badge/-SQL-151515?logo=sql)
-### ![CSHARP](https://img.shields.io/badge/-C%23-151515?logo=C#)
+### ![C#](https://img.shields.io/badge/-C%23-151515?logo=C#)
+### ![.NET](https://img.shields.io/badge/-PHP-151515?logo=php)
