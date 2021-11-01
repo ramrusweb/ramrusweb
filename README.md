@@ -12,4 +12,4 @@
 ## Contacts:
 ### ![](https://img.shields.io/badge/-LinkedIn-royalblue?style=for-the-badge&logo=linkedin) ![Telegram](https://img.shields.io/badge/-Telegram-24151201?style=for-the-badge&logo=telegram) ![Gmail](https://img.shields.io/badge/-rustamramazanovworkmail@gmail.com-202020?style=for-the-badge)
 
-<a href="tel:+79280511295">Phone number: +7 (928) 051-12-95</a>
+<div><a href="tel:+79280511295">Phone number: +7 (928) 051-12-95</a></div>
