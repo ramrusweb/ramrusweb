@@ -1,6 +1,5 @@
 # Hi there, I'm Rustam 👋
 ## Position: *Front-end Web Developer*
-### Check my Instagram: [=>](https://instagram.com/itgodoit/)
 ## Tech:
 ### Primary:
 ### ![HTML](https://img.shields.io/badge/-HTML-151515?logo=html5)
