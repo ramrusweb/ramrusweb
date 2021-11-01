@@ -3,7 +3,7 @@
 ### Check my Instagram: [=>](https://instagram.com/itgodoit/)
 ## Tech:
 ### Primary:
-### ![HTML](https://img.shields.io/badge/-HTML-151515?logo=html5)
+### **![HTML](https://img.shields.io/badge/-HTML-151515?logo=html5)**
 ### ![CSS](https://img.shields.io/badge/-CSS-151515?logo=css3)
 ### ![JS](https://img.shields.io/badge/-JAVASCRIPT-151515?logo=javascript)
 ### ![REACTJS](https://img.shields.io/badge/-REACT-151515?logo=react)
