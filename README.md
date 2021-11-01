@@ -9,7 +9,7 @@
 ### ![REACTJS](https://img.shields.io/badge/-REACT-151515?logo=react)
 ### ![GIT](https://)
 ### Secondary:
-### ![BOOTSTRAP](https://img.shields.io/badge/-PHP-151515?logo=bootstrap)
+### ![BOOTSTRAP](https://img.shields.io/badge/-bootstrap-151515?logo=bootstrap)
 ### ![FIGMA](https://img.shields.io/badge/-PHP-151515?logo=figma)
 ### ![BEM](https://img.shields.io/badge/-PHP-151515?logo=bem)
 ### ![PHP](https://img.shields.io/badge/-PHP-151515?logo=php)
