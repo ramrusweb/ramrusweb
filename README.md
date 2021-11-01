@@ -2,8 +2,7 @@
 ## Position: *Front-end Web Developer*
 ## Tech:
 ### Primary:
-### ![HTML](https://img.shields.io/badge/-HTML-151515?logo=html5)
-### ![CSS](https://img.shields.io/badge/-CSS-151515?logo=css3)
+### ![HTML](https://img.shields.io/badge/-HTML-151515?logo=html5)### ![CSS](https://img.shields.io/badge/-CSS-151515?logo=css3)
 ### ![JS](https://img.shields.io/badge/-JS-151515?logo=javascript)
 ### ![REACTJS](https://img.shields.io/badge/-REACTJS-151515?logo=react)
 ### ![GIT](https://img.shields.io/badge/-GIT-151515?logo=git)
