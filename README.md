@@ -4,8 +4,8 @@
 ### Primary:
 ### ![HTML](https://img.shields.io/badge/-HTML-151515?logo=html5)
 ### ![CSS](https://img.shields.io/badge/-CSS-151515?logo=css3)
-### ![JS](https://img.shields.io/badge/-JAVASCRIPT-151515?logo=javascript)
-### ![REACTJS](https://img.shields.io/badge/-REACT-151515?logo=react)
+### ![JS](https://img.shields.io/badge/-JS-151515?logo=javascript)
+### ![REACTJS](https://img.shields.io/badge/-REACTJS-151515?logo=react)
 ### ![GIT](https://img.shields.io/badge/-GIT-151515?logo=git)
 ### Secondary:
 ### ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-151515?logo=bootstrap)
