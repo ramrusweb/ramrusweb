@@ -16,5 +16,4 @@
 • VK: https://vk.com/vkramrus<br>
 • Phone number: + 7 (928) 051-12-95
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrusgit&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramrusgit&layout=compact&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrusgit&show_icons=true&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramrusgit&layout=compact&theme=react)
