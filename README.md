@@ -1,6 +1,6 @@
 # Hi there, I'm Rustam 👋
 ## Position: *Front-end Web Developer*
-## Tech:
+## Technology Stack
 ### Primary:
 ### ![HTML](https://img.shields.io/badge/-HTML-151515?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-151515?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/-JS-151515?style=for-the-badge&logo=javascript) ![REACTJS](https://img.shields.io/badge/-REACTJS-151515?style=for-the-badge&logo=react) ![GIT](https://img.shields.io/badge/-GIT-151515?style=for-the-badge&logo=git)
 
