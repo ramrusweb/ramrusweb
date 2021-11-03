@@ -13,5 +13,4 @@
 ### ![](https://img.shields.io/badge/-LinkedIn-royalblue?style=for-the-badge&logo=linkedin) ![Telegram](https://img.shields.io/badge/-Telegram-24151201?style=for-the-badge&logo=telegram) ![Gmail](https://img.shields.io/badge/-rustamramazanovworkmail@gmail.com-202020?style=for-the-badge) +7 (928) 051-12-95
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrusgit&show_icons=true&theme=react)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramrusgit&layout=compact&theme=react)
