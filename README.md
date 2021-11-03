@@ -10,7 +10,10 @@
 ####  • You can see my projects under this block in pinned repositories, but there are more of them - <a href="https://github.com/ramrusgit?tab=repositories" target="_blank">HERE</a>
 
 ## Contacts:
-### ![](https://img.shields.io/badge/-LinkedIn-royalblue?style=for-the-badge&logo=linkedin) ![Telegram](https://img.shields.io/badge/-Telegram-24151201?style=for-the-badge&logo=telegram) ![Gmail](https://img.shields.io/badge/-rustamramazanovworkmail@gmail.com-202020?style=for-the-badge) +7 (928) 051-12-95
+• LinkedIn: https://www.linkedin.com/in/rustam-ramazanov-48377018a/
+• Telegram: https://t.me/ramrusprog
+• Instagram: https://instagram.com/itgodoit
+• VK: https://vk.com/vkramrus
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrusgit&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramrusgit&layout=compact&theme=react)
