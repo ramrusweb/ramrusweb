@@ -10,10 +10,10 @@
 ####  • You can see my projects under this block in pinned repositories, but there are more of them - <a href="https://github.com/ramrusgit?tab=repositories" target="_blank">HERE</a>
 
 ## 📞 Contacts 
-• LinkedIn: https://www.linkedin.com/in/rustam-ramazanov-48377018a/<br>
-• Telegram: https://t.me/ramrusprog<br>
-• Instagram: https://instagram.com/itgodoit<br>
-• VK: https://vk.com/vkramrus<br>
+• LinkedIn: https://www.linkedin.com/in/ramrusweb<br>
+• Telegram: https://t.me/ramrusweb<br>
+• Instagram: https://instagram.com/ramrusweb<br>
+• VKontakte: https://vk.com/ramrusweb<br>
 • Phone number: + 7 (928) 051-12-95
 
 
