@@ -19,4 +19,4 @@
 
 
 ## 📊 My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrusgit&show_icons=true&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramrusgit&layout=compact&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrusweb&show_icons=true&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramrusweb&layout=compact&theme=react)
