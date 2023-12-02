@@ -15,7 +15,6 @@
 • Instagram: https://instagram.com/ramrusweb<br>
 • VKontakte: https://vk.com/ramrusweb<br>
 • Email: rustamramazanovworkmail@gmail.com<br>
-• Phone number: + 7 (928) 051-12-95
 
 
 ## 📊 My GitHub Stats
