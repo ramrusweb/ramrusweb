@@ -1,6 +1,6 @@
-# Hi there, I'm Rustam 👋
-## 👨🏻‍🏫 Position: *Front-end Web Developer*
-## 👨🏻‍💻 Technology Stack
+# Hi there, I'm Rustam
+## Position: *Front-end Web Developer*
+## Technology Stack
 ### Primary:
 ### ![HTML](https://img.shields.io/badge/-HTML-151515?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-151515?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/-JS-151515?style=for-the-badge&logo=javascript) ![REACTJS](https://img.shields.io/badge/-REACTJS-151515?style=for-the-badge&logo=react) ![GIT](https://img.shields.io/badge/-GIT-151515?style=for-the-badge&logo=git)
 
@@ -9,8 +9,8 @@
 
 ####  • You can see my projects under this block in pinned repositories, but there are more of them - <a href="https://github.com/ramrusgit?tab=repositories" target="_blank">HERE</a>
 
-## 📞 Contacts
-• My Kwork Profile (Freelance): https://kwork.ru/user/friendly_prog
+## Contacts
+• My Kwork Profile (Freelance): https://kwork.ru/user/friendly_prog<br>
 • LinkedIn: https://www.linkedin.com/in/ramrusweb<br>
 • Telegram: https://t.me/ramrusweb<br>
 • Instagram: https://instagram.com/ramrusweb<br>
