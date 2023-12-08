@@ -7,7 +7,7 @@
 ### Secondary:
 ### ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-151515?style=for-the-badge&logo=bootstrap) ![FIGMA](https://img.shields.io/badge/-FIGMA-151515?style=for-the-badge&logo=figma) ![BEM](https://img.shields.io/badge/-BEM-151515?style=for-the-badge) ![PHP](https://img.shields.io/badge/-PHP-151515?style=for-the-badge&logo=php) ![C#](https://img.shields.io/badge/-C%23-151515?style=for-the-badge&logo=c#) ![.NET](https://img.shields.io/badge/-.NET-151515?style=for-the-badge&logo=.net)
 
-####  • You can see my projects under this block in pinned repositories, but there are more of them - <a href="https://github.com/ramrusgit?tab=repositories" target="_blank">HERE</a>
+####  • You can see my projects under this block in pinned repositories, but there are more of them - <a href="https://github.com/ramrusweb?tab=repositories" target="_blank">HERE</a>
 
 ## Contacts
 • My Kwork Profile (Freelance): https://kwork.ru/user/friendly_prog<br>
